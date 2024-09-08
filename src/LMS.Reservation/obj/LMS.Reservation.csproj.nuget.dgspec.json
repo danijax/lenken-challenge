@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.Reservation/LMS.Reservation.csproj": {}
+  },
+  "projects": {
+    "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.Reservation/LMS.Reservation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.Reservation/LMS.Reservation.csproj",
+        "projectName": "LMS.Reservation",
+        "projectPath": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.Reservation/LMS.Reservation.csproj",
+        "packagesPath": "/Users/danieljames/.nuget/packages/",
+        "outputPath": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.Reservation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danieljames/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.SharedKernel/LMS.SharedKernel.csproj": {
+                "projectPath": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.SharedKernel/LMS.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.SharedKernel/LMS.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.SharedKernel/LMS.SharedKernel.csproj",
+        "projectName": "LMS.SharedKernel",
+        "projectPath": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.SharedKernel/LMS.SharedKernel.csproj",
+        "packagesPath": "/Users/danieljames/.nuget/packages/",
+        "outputPath": "/Users/danieljames/project/src/poolcop/Lenken-lms/src/LMS.SharedKernel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danieljames/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
